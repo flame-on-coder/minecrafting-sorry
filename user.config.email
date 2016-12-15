@@ -1,2 +1,3 @@
 git config --global user.name "Sam Kelly"
 gti config --global user.email kellya9988@parkwayschools.net
+git config --global user.password pcms3029988
