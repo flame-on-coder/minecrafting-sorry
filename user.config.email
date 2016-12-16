@@ -1,9 +1,13 @@
-git config --global user.name "Aidan Kelly"
-gti config --global user.email kellya9988@parkwayschools.net
-git config --global user.password pcms3029988
-git find --global.account.produced.by "Aidan Kelly"
+git config --global user.name "unknown"
+gti config --global user.email (find)
+git config --global user.password (import)
+git find --global.account.produced.by "unknowm"
 
-git print --Hi Welcome To This World Made By flame-on-coder
-git print --Press.start
+git print --Hi Welcome To This World Map
+git print --Press.start.display.button
 git authorize --open up world
 git tele --to begining
+git load --map
+git input --character
+gti create --maze.level.one
+git delete --terminate.script.all
